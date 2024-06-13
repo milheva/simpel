@@ -29,7 +29,7 @@
               <div class="col-lg-12">
                 <div class="p-5">
                   <div class="text-center">
-                    <h1 class="h4">WELCOME</h1><h2>Aplikasi Pengaduan Masyarakat</h2>
+                    <h1 class="h4">Selamat Datang!</h1><h2>Sistem Informasi Pengaduan Lingkungan Sidoarjo (Simpel)</h2>
                   </div><br>  
                     
                   <form method="post" action="cek_login.php">
